@@ -31,7 +31,3 @@ Experiments demonstrated that activating the feedback system reduced the FHP-tim
 ## Conclusion
 
 This study successfully developed a real-time FHP Correction Feedback System that offers practicality and convenience. It automates the FHP determination process, which traditionally required manual measurement and analysis. The system's potential extends to various platforms, including Android, iOS, Windows, and smart TVs, thanks to its compatibility with the Nuitrack SDK and Unity environment.
-
----
-
-This README provides an overview of the project, its features, development process, experimental setup, results, and conclusion. You can further customize it based on your specific requirements or additional details you'd like to include.
