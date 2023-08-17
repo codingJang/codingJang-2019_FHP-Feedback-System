@@ -5,7 +5,7 @@ This is a Unity project using Nuitrack SDK, a skeletal tracking middleware from 
 
 ## Introduction
 
-With the increasing use of computers and smartphones, many individuals are experiencing cervical issues such as turtleneck syndrome and disc herniation. These problems are primarily attributed to the Forward Head Posture (FHP), a condition where the neck is abnormally flexed forward. This project aims to develop a real-time feedback system for FHP using Markerless Skeletal Tracking, offering a solution that doesn't require physical attachments like existing devices.
+With the increasing use of computers and smartphones, many individuals are experiencing cervical issues such as turtleneck syndrome and disc herniation. These problems are primarily attributed to the Forward Head Posture (FHP), a condition where the neck is abnormally flexed forward. This project aims to develop a real-time feedback system for FHP using Markerless Skeletal Tracking, offering a solution that doesn't require physical attachments.
 
 ## Key Features
 
