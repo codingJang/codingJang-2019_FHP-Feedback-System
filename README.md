@@ -1,5 +1,7 @@
 # Real-Time Feedback System for Forward Head Posture Using Markerless Skeletal Tracking
 
+Download poster: https://drive.google.com/file/d/1SH-brTlvTuHnrXsnnd4DTG3ofRZK9sXW/view?usp=sharing
+
 ## Introduction
 
 With the increasing use of computers and smartphones, many individuals are experiencing cervical issues such as turtleneck syndrome and disc herniation. These problems are primarily attributed to the Forward Head Posture (FHP), a condition where the neck is abnormally flexed forward. This project aims to develop a real-time feedback system for FHP using Markerless Skeletal Tracking, offering a solution that doesn't require device attachments.
