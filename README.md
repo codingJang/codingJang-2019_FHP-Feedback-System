@@ -1,6 +1,7 @@
 # Real-Time Feedback System for Forward Head Posture Using Markerless Skeletal Tracking
 
 Download poster: https://drive.google.com/file/d/1SH-brTlvTuHnrXsnnd4DTG3ofRZK9sXW/view?usp=sharing
+See abstract: https://abstracts.societyforscience.org/Home/PrintPdf/19818
 
 ## Introduction
 
